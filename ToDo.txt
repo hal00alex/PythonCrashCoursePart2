@@ -1,0 +1,2 @@
+Combine the CrashCourses
+Set up document on how to commit or SVN 
